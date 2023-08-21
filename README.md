@@ -1,7 +1,8 @@
+
 - 👋 Hi, I’m Matleena
-- 👀 I’m interested in programming and game and web design
-- 🌱 I’m currently learning C
+- 🌱 Programming languages: C, Java, HTML/CSS
 <!--
+- 👀 UI-design interests me
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
